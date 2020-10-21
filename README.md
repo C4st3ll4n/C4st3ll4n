@@ -12,6 +12,14 @@
   * Django, Data Science / Python.
   * Shiny / R
   
+* I'm also studying:
+  * Test Driven Development (TDD);
+  * SOLID;
+  * Domain Driven Design (DDD);
+  * MVVM;
+  * MVC;
+  * Design Patterns: State, Observable, Strategy, Singleton;
+  
 ---
 If you wanna know a little bit more about me, I left my other social media and contact bellow:
 
