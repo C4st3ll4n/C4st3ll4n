@@ -3,14 +3,14 @@
 
 💻 &nbsp; Currently working @ ElosTecnologia | Mobile Developer | BackEnd Developer
 <br/>📚 &nbsp; Data analysis student @ Centro Universitário Claretiano
-<br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
+<br/>🚀 &nbsp; Venturing myself with online classes and courses about programming, diplomacy and philosophy
 
 * Technologies I'm focus now:
-  * Flutter / Dart;
+  * Flutter, Aqueduct / Dart;
   * Laravel, CodeIgniter / PHP;
-  * Android, Spring, Quarkus / Java, Kotlin;
-  * Django, Flask, Data Science / Python.
-  * R
+  * Android, Spring / Java, Kotlin;
+  * Django, Data Science / Python.
+  * Shiny / R
   
 ---
 If you wanna know a little bit more about me, I left my other social media and contact bellow:
