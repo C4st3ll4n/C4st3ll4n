@@ -11,6 +11,7 @@
   * Android, Spring / Java, Kotlin;
   * Django, Data Science / Python.
   * Shiny / R
+  * Vue / Js
   
 * I'm also studying:
   * Test Driven Development (TDD);
