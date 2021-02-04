@@ -1,7 +1,7 @@
 ## Hey there, guys <img src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif" alt="hiimage" width="40">
 ---
 
-💻 &nbsp; Currently working @ ElosTecnologia | Mobile Developer | BackEnd Developer
+💻 &nbsp; Currently working @Braspag | Mobile Developer | BackEnd Developer
 <br/>📚 &nbsp; Data analysis student @ Centro Universitário Claretiano
 <br/>🚀 &nbsp; Venturing myself with online classes and courses about programming, diplomacy and philosophy
 
@@ -12,15 +12,7 @@
   * Django, Data Science / Python.
   * Shiny / R
   * Vue / Js
-  
-* I'm also studying:
-  * Test Driven Development (TDD);
-  * SOLID;
-  * Domain Driven Design (DDD);
-  * MVVM;
-  * MVC;
-  * Design Patterns;
-  
+ 
 ---
 If you wanna know a little bit more about me, I left my other social media and contact bellow:
 
