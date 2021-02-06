@@ -11,7 +11,7 @@
   * Android, Spring / Java, Kotlin;
   * Django, Data Science / Python.
   * Shiny / R
-  * Vue / Js
+  * Vue, Angular / Js
  
 ---
 If you wanna know a little bit more about me, I left my other social media and contact bellow:
