@@ -1,8 +1,8 @@
 ## Hey there, guys <img src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif" alt="hiimage" width="40">
 ---
 
-💻 &nbsp; Currently working @Braspag | Mobile Developer | BackEnd Developer
-<br/>📚 &nbsp; Data analysis student @ Centro Universitário Claretiano
+💻 &nbsp; Currently working @Braspag | Developer 
+<br/>📚 &nbsp; Data analysis at @ Centro Universitário Claretiano
 <br/>🚀 &nbsp; Venturing myself with online classes and courses about programming, diplomacy and philosophy
 
 * Technologies I'm focus now:
