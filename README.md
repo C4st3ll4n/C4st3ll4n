@@ -15,4 +15,4 @@
 ---
 If you wanna know a little bit more about me, I left my other social media and contact bellow:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p3dr0h3nr1qu3)](https://www.linkedin.com/in/p3dr0h3nr1qu3)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p3dr0h3nr1qu3)](https://www.linkedin.com/in/hnrqpdr)
